@@ -7,6 +7,8 @@
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
+## 📋 PASOS DE INSTALACIÓN 📋
+
 | Elemento | Lo que dice la documentación | Lo que necesita la VM | Otros (Comentarios que consideres relevantes) | Fuente de info: |
 | :--- | :--- | :--- | :--- | :--- |
 | **S.O.** | Sistema operativo basado en Linux compatible con la pila de software (Apache/Nginx, PHP, MySQL/MariaDB). | **Ubuntu 26.04.1 LTS** Server (64-bit) | Arquitectura de 64 bits (`amd64`). Al ser una versión LTS, cuenta con soporte extendido de 5 años. | ISO oficial (`ubuntu-26.04.1-live-server-amd64.iso`) |
