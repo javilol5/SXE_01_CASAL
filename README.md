@@ -21,42 +21,42 @@
 📋 PASOS DE INSTALACIÓN 📋
 ---
 
-### 1- CREACION DE LA MAQUINA VIRTUAL
+### 1- 🔨 CREACION DE LA MAQUINA VIRTUAL 🔨
 ![](cap6.png)
 ---
-### 2- INSTALACION DE DEPENDENCIAS
+### 2- 📥 INSTALACION DE DEPENDENCIAS 📥
 ![](cap7.png)
 ---
-### 3- DESCARGA Y EXTRACCION DE ARCHIVOS DE WORDPRESS EN EL DIRECTORIO DEL SERVIDOR
+### 3- 🗂️ DESCARGA Y EXTRACCION DE ARCHIVOS DE WORDPRESS EN EL DIRECTORIO DEL SERVIDOR 🗂️
 ![](cap8.png)
 ---
-### 4- CONFIGURACIOND E APACHE
+### 4- ⚙️ CONFIGURACION DE APACHE ⚙️
 
 ``nano etc/apache2/sites-available/wordpress.conf``
 
 ![](cap9.png)
 ---
-### 5- AÑADIR ``ServerName worpress.local``
+### 5- 🆆 AÑADIR ``ServerName worpress.local``🆆
 ![](cap13.png)
 ---
-### 6- INSTALACION DE ``mysql-server``
+### 6- 🐬 INSTALACION DE ``mysql-server`` 🐬
 ![](cap17.png)
 ---
-### 7- MYSQL INSTALADO Y FUNCIONAL
+### 7- 🐬🐬🐬 MYSQL INSTALADO Y FUNCIONAL 🐬🐬🐬
 ![](cap19.png)
 ---
-### 8- ``wordpress.local`` EN EL BUSCADOR DE LA MAQUINA FISICA
+### 8- 🌐 ``wordpress.local`` EN EL BUSCADOR DE LA MAQUINA FISICA 🌐
 ![](cap15.png)
 ![](cap16.png)
 ---
-### 9- CONFIGURACION INICIAL DE WORDPRESS
+### 9- ⚙️ CONFIGURACION INICIAL DE WORDPRESS ⚙️
 ![](cap21.png)
 ![](cap23.png)
 ![](cap24.png)
 ![](cap25.png)
 ![](cap26.png)
 ---
-### 10- WORDPRES CONFIGURADO
+### 10- ✅ WORDPRES CONFIGURADO ✅
 ![](cap27.png)
 ---
 
