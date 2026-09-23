@@ -7,7 +7,7 @@
 ![Apache](https://img.shields.io/badge/Apache-2.4-green?style=for-the-badge&logo=apache)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
 
-## 📋 PASOS DE INSTALACIÓN 📋
+## ⬇️ INFORMACION RELEVANTE ⬇️
 
 | Elemento | Lo que dice la documentación | Lo que necesita la VM | Otros (Comentarios que consideres relevantes) | Fuente de info: |
 | :--- | :--- | :--- | :--- | :--- |
@@ -16,6 +16,10 @@
 | **Versión de PHP** | Versión **8.2.x o superior**  | **PHP 8.3**  | WordPress requiere de extensiones (`php-mysql`, `php-xml`, `php-gd`, `php-curl`). | Documentación Oficial de WordPress|
 | **Gestor de BBDD** | **MySQL 8.0+** o **MariaDB 10.5+**. | **MySQL 8.0+** | Se elige MySQL por si conocimiento y uso previo | Documentación Oficial de WordPress |
 | **Memoria y Disco** | **RAM:** Mínimo 512 MB (1–2 GB recomendados). **Disco:** 1 GB mínimo para WP + espacio para BD y medios. | **RAM:** 2 GB<br>**Disco:** 25 GB (VDI dinámico) | Para la VM se asignan 4 GB de RAM para asegurar fluidez durante el proceso de actualización de paquetes y 100 GB de almacenamiento. | Documentación oficial de Ubuntu Server |
+
+
+📋 PASOS DE INSTALACIÓN 📋
+---
 
 ### CREACION DE LA MAQUINA VIRTUAL
 ![](cap6.png)
